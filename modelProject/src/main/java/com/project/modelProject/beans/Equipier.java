@@ -16,7 +16,7 @@ public class Equipier implements Serializable {
 	
 	public Equipier(){
 		
-		System.out.println("constructor maj");
+		System.out.println("constructor maj 2");
 		
 	}
 
