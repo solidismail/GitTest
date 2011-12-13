@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Equipier implements Serializable {
 
 	/**
-	 * 
+	 * pour la sérialisation
 	 */
 	private static final long serialVersionUID = 1L;
 
@@ -16,7 +16,7 @@ public class Equipier implements Serializable {
 	
 	public Equipier(){
 		
-		
+		System.out.println("constructor");
 		
 	}
 
