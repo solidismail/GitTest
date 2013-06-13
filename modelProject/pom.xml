@@ -8,14 +8,14 @@
 	<name>modelProject Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
-<!-- les propriétés -->
+	<!-- les propriétés -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<org.hibernate.version>3.5.1-Final</org.hibernate.version>
 		<org.springframework.version>3.0.1.RELEASE</org.springframework.version>
 	</properties>
-
-<!-- les dependences = -->
+<!--   s¢ -->
+	<!-- les dependences = -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -49,10 +49,10 @@
 			<version>5.1.16</version>
 		</dependency>
 	</dependencies>
-	
-<!-- les buids -->
+
+	<!-- les buids -->
 	<build>
 		<finalName>modelProject</finalName>
 	</build>
-	
+
 </project>
